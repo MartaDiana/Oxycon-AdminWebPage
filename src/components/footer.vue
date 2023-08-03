@@ -15,7 +15,6 @@
 <style scoped>
 .footer {
   font-family: "Poppins" !important;
-  margin-top: -25px;
   text-align: center;
   font-size: 0.7em;
   font-weight: 500;
