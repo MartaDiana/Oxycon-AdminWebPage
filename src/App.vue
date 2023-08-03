@@ -6,10 +6,12 @@ import patientDetail from "./components/patient-doc.vue";
 import docList from "./components/doctor-list.vue";
 import navbarList from "./components/navbar-list.vue";
 import deviceList from "./components/device-list.vue";
+import addDoc from "./components/add-doctor.vue";
+import addAdmin from "./components/add-admin.vue";
 </script>
 
 <template>
-  <deviceList />
+  <addAdmin />
 </template>
 
 <style scoped></style>

@@ -81,11 +81,19 @@ code {
   margin: 0 20px;
 }
 
-.main .title {
+.main .title h1 {
   color: whitesmoke;
   letter-spacing: 8px;
   text-align: center;
   margin-top: 15px;
   margin-bottom: 20px;
 }
+
+.main .title p {
+  color: rgb(212, 212, 212);
+  font-size: 0.9em;
+  margin-top: 20px;
+  text-align: center;
+}
+
 /* style footer */
