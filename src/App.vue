@@ -11,7 +11,7 @@ import addAdmin from "./components/add-admin.vue";
 </script>
 
 <template>
-  <addAdmin />
+  <patientDetail />
 </template>
 
 <style scoped></style>
